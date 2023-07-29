@@ -30,7 +30,7 @@ const Home = () => {
             </a>
             <a href="https://github.com/deepanshu-2021" target="_blank">
               <button className="Btn">
-                <img src="../public/images/github.svg" className="img" />
+                <img src="/images/github.svg" className="img" />
               </button>
             </a>
           </div>
