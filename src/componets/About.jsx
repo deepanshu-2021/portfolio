@@ -6,7 +6,7 @@ const About = () => {
       <div className="flex flex-col lg:flex-row w-3/6 mx-auto mt-32 md:pl-40">
         <div className="mr-4">
           <img
-            src="../public/images/workspace.jpg"
+            src="/images/workspace.jpg"
             className="w-72 h-80 border rounded-md lg:w-64 lg:h-72"
           ></img>
         </div>

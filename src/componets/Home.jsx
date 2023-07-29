@@ -6,7 +6,7 @@ const Home = () => {
     <div className="flex flex-col lg:flex-row w-3/6 mx-auto mt-32 md:pl-40">
       <div className="mr-4">
         <img
-          src="../public/images/profilepic.jpg"
+          src="/images/profilepic.jpg"
           className="w-72 h-80 border rounded-xl  "
         ></img>
       </div>
@@ -25,7 +25,7 @@ const Home = () => {
               target="_blank"
             >
               <button className="Btn">
-                <img src="../public/images/linkedin.svg" />
+                <img src="/images/linkedin.svg" />
               </button>
             </a>
             <a href="https://github.com/deepanshu-2021" target="_blank">
